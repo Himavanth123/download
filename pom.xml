@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>download</artifactId>
-    <version>0.1.17-1</version>
+    <version>0.1.18-SNAPSHOT</version>
     <name>download</name>
     <description>WebJar for download</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/download</url>
         <connection>scm:git:https://github.com/webjars/download.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/download.git</developerConnection>
-        <tag>download-0.1.17-1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
