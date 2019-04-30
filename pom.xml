@@ -8,7 +8,7 @@
         <version>7</version>
     </parent>
 
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>download</artifactId>
     <version>0.1.18-SNAPSHOT</version>
